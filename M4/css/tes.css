@@ -1,0 +1,21 @@
+:root{
+    --pink-light:#ffd1e8;
+    --pink-cute:#ff9ce3;
+}
+
+
+body{
+    background:linear-gradient(#ffd1e8,#7033ff);
+    transparent 50%)
+}
+img{
+    width:450px;
+    height: 300px;
+    margin-bottom:20px;
+    border-radius:24px;
+    margin-top:20px;
+
+}
+.judul{
+    font-size: 30px;
+}
